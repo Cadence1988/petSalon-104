@@ -53,14 +53,18 @@ a{
     font-size: 24px;
     margin: 10px 30px;
  }
-
+/*register color*/
  .site-header {
-    background-color: #1A3636;
+    background-color: #228989;
+ }
+
+ .body-color{
+    background-color: #33bebe;
+ }
+
+ .table{
+    background-color: red;
  }
 
     /*GETTING VALUES FROM PROMPT   */
-
-.register-header{
-    background-color: #1A3636;
-}
     
